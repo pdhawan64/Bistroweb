@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="utf-8">
+		<title>Black Goose Bistro</title>
+	</head>
 
-You can use the [editor on GitHub](https://github.com/pdhawan64/Bistroweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<body>
+		<h1><img src="blackgoose.png" alt="logo"><br>Black Goose Bistro</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<h2>The Restaurant</h2>
 
-### Markdown
+		<p>The Black Goose Bistro offers casual lunch and dinner fare in a relaxed atmosphere. The menu changes regularly to highlight the freshest local ingredients.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+		<h3>Catering</h3>
 
-# Header 1
-## Header 2
-### Header 3
+		<p>You have fun. <em>We'll handle the cooking.</em> Black Goose Catering can handle events from snacks for a meetup to elegant corporate fundraisers.</p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pdhawan64/Bistroweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+		<h2>Location and Hours</h2>
+		Seekonk, Massachusetts;<br>
+		Monday through Thursday 11am to 9pm;<br>Friday and Saturday, 11am to midnight
+		<br>
+		<br>
+		<a href="recipe.html">A Sample Recipe</a><br>
+		<a href="bistronews.html">Bistro News</a><br>
+		<a href="bistronews2.html">More Bistro News</a>
+	</body>
+</html>
