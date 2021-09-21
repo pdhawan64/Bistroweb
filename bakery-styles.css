@@ -14,7 +14,7 @@ a:focus, a:hover, a:active { color: #F9AB33; }
 header {
   color: white;
   background:  url(images/croissants_banner.jpg) no-repeat center center;
-  background-size: cover; 
+  background-size: cover;
   text-align: center;
 }
 header p {
@@ -77,4 +77,3 @@ h2 {
   font-size: .8em;
   text-transform: uppercase;
 }
-
