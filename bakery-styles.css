@@ -41,9 +41,7 @@ main {
 aside {
   grid-area: hours;
 }
-footer {
-  grid-area: footer;
-}
+
 
 /* header styles */
 header {

@@ -153,13 +153,13 @@ footer {
 @media screen and (min-width: 600px) {
 header p {
    display: block;
-   margin-top: -1.5em
+   margin-top: -1.5em;
    font-family: Georgia, serif;
    font-style: italic;
    font-size: 1.2em;
 }
 main h2 h3 {
-    font-family: 'Stint Ultra Expanded' Georgia, serif;
+    font-family: 'Stint Ultra Expanded', Georgia, serif;
 }
 h2, h3 {
     font-weight: bold;
@@ -168,8 +168,8 @@ main {
   line-height: 1.8em;
   padding: 1em;
   border: double 4px #EADDC4;
-  border-radius: 25px
-  margin: 2.54%
+  border-radius: 25px;
+  margin: 2.5%;
 }
 }
 @media screen and (min-width: 940px) {
@@ -196,10 +196,10 @@ aside {
   background: url(images\scallop.png) repeat -y left top;
   background-color: #F6F3ED
   padding: 1em;
-  padding-left 45px;
+  padding-left: 45px;
 }
 footer {
-  grid-area: fotter;
+  grid-area: footer;
 }
 #award {
   position: absolute;
